@@ -1,0 +1,15 @@
+.card {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.nameDate {
+  display: flex;
+  flex-direction: column;
+}
+
+.italic {
+  font-style: italic;
+}

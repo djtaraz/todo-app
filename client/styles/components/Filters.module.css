@@ -1,0 +1,10 @@
+.filters {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1%;
+}
+.switch {
+  display: flex;
+  align-items: center;
+}

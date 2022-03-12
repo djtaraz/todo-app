@@ -1,0 +1,14 @@
+.container {
+  padding: 0 2rem;
+}
+
+.divider {
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.link {
+  margin-top: 1%;
+  display: flex;
+  justify-content: center;
+}
